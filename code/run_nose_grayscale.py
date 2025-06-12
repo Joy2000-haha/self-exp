@@ -29,8 +29,8 @@ NUM_TRAINING_STEPS = 10000    #20000
 SEQ_LEN = 1  # Sequence length (model expects B, L, C, H, W)
 PRINT_INTERVAL = 100
 SAVE_INTERVAL = 1000
-MODEL_SAVE_DIR = "/Users/feisong/Desktop/self-experience/code/Output/checkpoint/enhanced_trained_models_attention"
-LOG_DIR = "/Users/feisong/Desktop/self-experience/code/Output/log"
+MODEL_SAVE_DIR = "/Users/qiaoyi/Desktop/self-experience/code/nose_grayscle_Output/checkpoint/enhanced_trained_models_attention"
+LOG_DIR = "/Users/feisong/Desktop/self-experience/code/nose_grayscle_Output/log"
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Advanced training settings
