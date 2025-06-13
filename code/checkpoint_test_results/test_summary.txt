@@ -1,0 +1,14 @@
+Checkpoint Test Summary
+==================================================
+
+Checkpoint: /Users/qiaoyi/Downloads/Self_Exp-main/nose_grayscle_Output/nose_grayscle_10000.pth
+Device: cpu
+Total Samples: 12
+
+Performance Metrics:
+  Average PSNR: 6.53 dB
+  Best PSNR: 7.02 dB
+  Worst PSNR: 5.57 dB
+  Average MSE: 14640.4795
+  Average MAE: 99.92
+  Average Inference Time: 542.4 ms
